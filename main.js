@@ -22,22 +22,18 @@ var app = new Vue({
     data: {
         spotifyuser: 'l422y',
         results: false
-    },
-    // , render: function (createElement) {
-    //     // return createElement('div','wegweg');
-    //     return createElement('playlistview', {props: {"results": this.results}});
-    // }
+    }
 });
 
 
 function init() {
     $.ajax({
         // url: 'https://api.spotify.com/v1/users/' + app.spotifyuser + '/playlists',
-        url: 'playlists.json',
         // data: {limit: 50,offset:0},
         // headers: {
         //     Authorization: 'Bearer ' + oatoken
         // }
+        url: 'playlists.json',
     })
         .then(function (oData) {
             console.log(oData);
