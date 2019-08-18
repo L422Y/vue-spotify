@@ -1,0 +1,2541 @@
+{
+  "href" : "https://api.spotify.com/v1/users/l422y/playlists?offset=0&limit=50",
+  "items" : [ {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/0v6wlbg6KJL5M4Bfi3EUbr"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/0v6wlbg6KJL5M4Bfi3EUbr",
+    "id" : "0v6wlbg6KJL5M4Bfi3EUbr",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://pl.scdn.co/images/pl/default/91a5fa8f40023859670c2e66bc77d159fac969c3",
+      "width" : null
+    } ],
+    "name" : "Portugal. The Man: The Collection",
+    "owner" : {
+      "display_name" : "Portugal. The Man",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/myfearofmusic"
+      },
+      "href" : "https://api.spotify.com/v1/users/myfearofmusic",
+      "id" : "myfearofmusic",
+      "type" : "user",
+      "uri" : "spotify:user:myfearofmusic"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "NTcsY2U4NDM4NTEwNGZhNmVhNDZhNmNlMjExZGQ0ZmI2NTA2ODg3Y2NlNg==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/0v6wlbg6KJL5M4Bfi3EUbr/tracks",
+      "total" : 128
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:0v6wlbg6KJL5M4Bfi3EUbr"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/3EcFJSD9GcQ655LCYuYJZt"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/3EcFJSD9GcQ655LCYuYJZt",
+    "id" : "3EcFJSD9GcQ655LCYuYJZt",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/425499dbab168b3b00c99515f03c8d41022286b9428556f3b480be27678df6f0e5ca485c704695068b0a4a60f566bb1e233f8348fac4182a82a34fa4c807b142ae044ad370dd7b0fe0ba361e348e0a23",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/425499dbab168b3b00c99515f03c8d41022286b9428556f3b480be27678df6f0e5ca485c704695068b0a4a60f566bb1e233f8348fac4182a82a34fa4c807b142ae044ad370dd7b0fe0ba361e348e0a23",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/425499dbab168b3b00c99515f03c8d41022286b9428556f3b480be27678df6f0e5ca485c704695068b0a4a60f566bb1e233f8348fac4182a82a34fa4c807b142ae044ad370dd7b0fe0ba361e348e0a23",
+      "width" : 60
+    } ],
+    "name" : "BIG FUCKOFF PLAYLIST",
+    "owner" : {
+      "display_name" : "Larry Williamson",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/l422y"
+      },
+      "href" : "https://api.spotify.com/v1/users/l422y",
+      "id" : "l422y",
+      "type" : "user",
+      "uri" : "spotify:user:l422y"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "NDMsYmY4NTBkOTQzMTkyYWEzMGRlZWU3Yzk4MjA2NDQ4MzVlMjYzYzNjMQ==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/3EcFJSD9GcQ655LCYuYJZt/tracks",
+      "total" : 4160
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:3EcFJSD9GcQ655LCYuYJZt"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/1u1eBq5maizvkh61Ii8Hqi"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/1u1eBq5maizvkh61Ii8Hqi",
+    "id" : "1u1eBq5maizvkh61Ii8Hqi",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/2de08448b9ab9cbc36b60640af93a2f682bb11f052fc1b3b08807194b87cd7e4fd68f5118d991e4467d21c8eec3370461d2d2981be1fcbc8a44e5d44d1d8751bdc73c59922e31001e191164db08597b5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/2de08448b9ab9cbc36b60640af93a2f682bb11f052fc1b3b08807194b87cd7e4fd68f5118d991e4467d21c8eec3370461d2d2981be1fcbc8a44e5d44d1d8751bdc73c59922e31001e191164db08597b5",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/2de08448b9ab9cbc36b60640af93a2f682bb11f052fc1b3b08807194b87cd7e4fd68f5118d991e4467d21c8eec3370461d2d2981be1fcbc8a44e5d44d1d8751bdc73c59922e31001e191164db08597b5",
+      "width" : 60
+    } ],
+    "name" : "punt02",
+    "owner" : {
+      "display_name" : "Larry Williamson",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/l422y"
+      },
+      "href" : "https://api.spotify.com/v1/users/l422y",
+      "id" : "l422y",
+      "type" : "user",
+      "uri" : "spotify:user:l422y"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "NTAsNTRkN2NkZTNiMDAyN2FhMjQ1OGI3N2I0MDA5ZTgyYTk5OTU1Njk2MA==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/1u1eBq5maizvkh61Ii8Hqi/tracks",
+      "total" : 44
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:1u1eBq5maizvkh61Ii8Hqi"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/7a7MhaDWchhYWuDj4N6PKx"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/7a7MhaDWchhYWuDj4N6PKx",
+    "id" : "7a7MhaDWchhYWuDj4N6PKx",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://pl.scdn.co/images/pl/default/61697043ae029bea26d62954d02a8c985ff679ee",
+      "width" : null
+    } ],
+    "name" : "2018 – VARIETY",
+    "owner" : {
+      "display_name" : "Larry Williamson",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/l422y"
+      },
+      "href" : "https://api.spotify.com/v1/users/l422y",
+      "id" : "l422y",
+      "type" : "user",
+      "uri" : "spotify:user:l422y"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MTUzLDFmNTgyYjM2ODRhM2Y5OTQzOGU0ZWEzNzg5N2FiYThiMTI4ZTdkNTk=",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/7a7MhaDWchhYWuDj4N6PKx/tracks",
+      "total" : 113
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:7a7MhaDWchhYWuDj4N6PKx"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/3afc1Zyp25jnTAGfnNaJ44"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/3afc1Zyp25jnTAGfnNaJ44",
+    "id" : "3afc1Zyp25jnTAGfnNaJ44",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/5acca23be53a8fdc80e35ba1ea0fa1be78f0b1158b95f685505066aaff8f87f37787e6d9e4f5e5cdae5a35296526d7320c70da2077a37a7cd6d3c5c2fbcefcf0a39ab8c14e216a2aadcca99e366f1804",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/5acca23be53a8fdc80e35ba1ea0fa1be78f0b1158b95f685505066aaff8f87f37787e6d9e4f5e5cdae5a35296526d7320c70da2077a37a7cd6d3c5c2fbcefcf0a39ab8c14e216a2aadcca99e366f1804",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/5acca23be53a8fdc80e35ba1ea0fa1be78f0b1158b95f685505066aaff8f87f37787e6d9e4f5e5cdae5a35296526d7320c70da2077a37a7cd6d3c5c2fbcefcf0a39ab8c14e216a2aadcca99e366f1804",
+      "width" : 60
+    } ],
+    "name" : "* FEELS GOOD",
+    "owner" : {
+      "display_name" : "Larry Williamson",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/l422y"
+      },
+      "href" : "https://api.spotify.com/v1/users/l422y",
+      "id" : "l422y",
+      "type" : "user",
+      "uri" : "spotify:user:l422y"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MTYsNmM1NjQ5MTllNmM1MzJkZWE0N2IwMDY0ODBmNDI2MjE5ZTI4MmI1OA==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/3afc1Zyp25jnTAGfnNaJ44/tracks",
+      "total" : 12
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:3afc1Zyp25jnTAGfnNaJ44"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/4cghrS7F120RAClqSAaD5M"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/4cghrS7F120RAClqSAaD5M",
+    "id" : "4cghrS7F120RAClqSAaD5M",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a86c4df827d391938073d80109fd381861f78aa9",
+      "width" : 640
+    } ],
+    "name" : "_MELTYFACE",
+    "owner" : {
+      "display_name" : "Larry Williamson",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/l422y"
+      },
+      "href" : "https://api.spotify.com/v1/users/l422y",
+      "id" : "l422y",
+      "type" : "user",
+      "uri" : "spotify:user:l422y"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "NCxlNjA0MmM0Y2UwMTFiM2I1M2E5MWM2NDA1NzA3NzY5YjIzYTk2MmNj",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/4cghrS7F120RAClqSAaD5M/tracks",
+      "total" : 2
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:4cghrS7F120RAClqSAaD5M"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/3eRKUfhiTP9iuwcMHhT4d6"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/3eRKUfhiTP9iuwcMHhT4d6",
+    "id" : "3eRKUfhiTP9iuwcMHhT4d6",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/1e167b692521af5a3d1073c84e9f2ece0d5d52af4179db05ce98de7197072125f888d94ca575f1464ac6672d9acaf34f792794c5a4e1ba13b5978a4bcf97574c1aad59dacb7c720c85712b5cda848d0c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/1e167b692521af5a3d1073c84e9f2ece0d5d52af4179db05ce98de7197072125f888d94ca575f1464ac6672d9acaf34f792794c5a4e1ba13b5978a4bcf97574c1aad59dacb7c720c85712b5cda848d0c",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/1e167b692521af5a3d1073c84e9f2ece0d5d52af4179db05ce98de7197072125f888d94ca575f1464ac6672d9acaf34f792794c5a4e1ba13b5978a4bcf97574c1aad59dacb7c720c85712b5cda848d0c",
+      "width" : 60
+    } ],
+    "name" : "R3TU2N",
+    "owner" : {
+      "display_name" : "Larry Williamson",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/l422y"
+      },
+      "href" : "https://api.spotify.com/v1/users/l422y",
+      "id" : "l422y",
+      "type" : "user",
+      "uri" : "spotify:user:l422y"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MjY1LDZiMGRhZDE2N2I3NDcxNDhiMWE3OGE5MzVmZDViMTQ0MmE4ZmExNWU=",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/3eRKUfhiTP9iuwcMHhT4d6/tracks",
+      "total" : 72
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:3eRKUfhiTP9iuwcMHhT4d6"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/2XiWMvueGZrBwN1CFgM9m6"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/2XiWMvueGZrBwN1CFgM9m6",
+    "id" : "2XiWMvueGZrBwN1CFgM9m6",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/802c503d1eb9375e60e78e1c965be9bce4ef11f29e041f6195d88616d5a51bd7cd3b3790170f4f13b2537477ef055d97c8f1feac9f53fced5b255392e90c1ac21bdf014e928bbf392686480c59f8b51a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/802c503d1eb9375e60e78e1c965be9bce4ef11f29e041f6195d88616d5a51bd7cd3b3790170f4f13b2537477ef055d97c8f1feac9f53fced5b255392e90c1ac21bdf014e928bbf392686480c59f8b51a",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/802c503d1eb9375e60e78e1c965be9bce4ef11f29e041f6195d88616d5a51bd7cd3b3790170f4f13b2537477ef055d97c8f1feac9f53fced5b255392e90c1ac21bdf014e928bbf392686480c59f8b51a",
+      "width" : 60
+    } ],
+    "name" : "_GARAGE",
+    "owner" : {
+      "display_name" : "Larry Williamson",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/l422y"
+      },
+      "href" : "https://api.spotify.com/v1/users/l422y",
+      "id" : "l422y",
+      "type" : "user",
+      "uri" : "spotify:user:l422y"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "Nyw0NWI5NTU1MTk1NGI5NmIxNTFmMDY2ZmExYzJmZGFiYmJjNGI4NDk3",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/2XiWMvueGZrBwN1CFgM9m6/tracks",
+      "total" : 4
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:2XiWMvueGZrBwN1CFgM9m6"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/1ZsxC8sEpQyB5EI3dDDZOs"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/1ZsxC8sEpQyB5EI3dDDZOs",
+    "id" : "1ZsxC8sEpQyB5EI3dDDZOs",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/03060f9e16983c7fdc856b2fe396f5976672c1e24814b43af7fc1e94d0fa81fb746c087385f9071f8718d916d3f50d258e4ea836c92efded0023c072f374a814af5f158c6a54825cc3981526bbfe2a16",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/03060f9e16983c7fdc856b2fe396f5976672c1e24814b43af7fc1e94d0fa81fb746c087385f9071f8718d916d3f50d258e4ea836c92efded0023c072f374a814af5f158c6a54825cc3981526bbfe2a16",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/03060f9e16983c7fdc856b2fe396f5976672c1e24814b43af7fc1e94d0fa81fb746c087385f9071f8718d916d3f50d258e4ea836c92efded0023c072f374a814af5f158c6a54825cc3981526bbfe2a16",
+      "width" : 60
+    } ],
+    "name" : "_OLDIES",
+    "owner" : {
+      "display_name" : "Larry Williamson",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/l422y"
+      },
+      "href" : "https://api.spotify.com/v1/users/l422y",
+      "id" : "l422y",
+      "type" : "user",
+      "uri" : "spotify:user:l422y"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MTksMmE1ZTAwZjhiYThmNjBlNDMwZGU1ZDNhNDVjOTFhYzgyYzUwMDE4Ng==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/1ZsxC8sEpQyB5EI3dDDZOs/tracks",
+      "total" : 12
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:1ZsxC8sEpQyB5EI3dDDZOs"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/1gQDXmciX3oYcQzww6EXff"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/1gQDXmciX3oYcQzww6EXff",
+    "id" : "1gQDXmciX3oYcQzww6EXff",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/79e4cbce026ed78d4b2e6e3ed9008eec67df2cd996f7a95dd1aa4b3ed864986eac6b02c99fc1dfe09c8172a685afd76a90d4d96f84ed4b45fd63dbb1a4d2242e7b86d0fa078c4c708009793094a3952b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/79e4cbce026ed78d4b2e6e3ed9008eec67df2cd996f7a95dd1aa4b3ed864986eac6b02c99fc1dfe09c8172a685afd76a90d4d96f84ed4b45fd63dbb1a4d2242e7b86d0fa078c4c708009793094a3952b",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/79e4cbce026ed78d4b2e6e3ed9008eec67df2cd996f7a95dd1aa4b3ed864986eac6b02c99fc1dfe09c8172a685afd76a90d4d96f84ed4b45fd63dbb1a4d2242e7b86d0fa078c4c708009793094a3952b",
+      "width" : 60
+    } ],
+    "name" : "_DWNLD",
+    "owner" : {
+      "display_name" : "Larry Williamson",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/l422y"
+      },
+      "href" : "https://api.spotify.com/v1/users/l422y",
+      "id" : "l422y",
+      "type" : "user",
+      "uri" : "spotify:user:l422y"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MTc3LDk2MjEwZjJkMTg2NDVlMmQwOTMwMjgzMTYwNTFhNjI1YWJjNjE1ZmI=",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/1gQDXmciX3oYcQzww6EXff/tracks",
+      "total" : 178
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:1gQDXmciX3oYcQzww6EXff"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/5lab7tSQZh18ClS5Kmd1Qe"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/5lab7tSQZh18ClS5Kmd1Qe",
+    "id" : "5lab7tSQZh18ClS5Kmd1Qe",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/151e69b95e5e06c7e6b1623b36c85499001fb763361d9f8ae0fc40ef21108c29047e3cb591e1885e36bfb017c06480d883144505c31d1ee147d92e21ad28f0135dab64b99ea6bca19b59c0746bbc5e4d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/151e69b95e5e06c7e6b1623b36c85499001fb763361d9f8ae0fc40ef21108c29047e3cb591e1885e36bfb017c06480d883144505c31d1ee147d92e21ad28f0135dab64b99ea6bca19b59c0746bbc5e4d",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/151e69b95e5e06c7e6b1623b36c85499001fb763361d9f8ae0fc40ef21108c29047e3cb591e1885e36bfb017c06480d883144505c31d1ee147d92e21ad28f0135dab64b99ea6bca19b59c0746bbc5e4d",
+      "width" : 60
+    } ],
+    "name" : "_TRAPDJ",
+    "owner" : {
+      "display_name" : "Larry Williamson",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/l422y"
+      },
+      "href" : "https://api.spotify.com/v1/users/l422y",
+      "id" : "l422y",
+      "type" : "user",
+      "uri" : "spotify:user:l422y"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MTUsY2FlNTQ5ZjNiYjEwYzY4ZDY4MmVmMTEzYTNkNjBkNjY4ZmMzYjU2MQ==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/5lab7tSQZh18ClS5Kmd1Qe/tracks",
+      "total" : 13
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:5lab7tSQZh18ClS5Kmd1Qe"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/0MpzNNkkprJIAmfi6uUIHA"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/0MpzNNkkprJIAmfi6uUIHA",
+    "id" : "0MpzNNkkprJIAmfi6uUIHA",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/2a7ba762afdc8b5a9c9cd60928896869a71f8f1335d88b9e2efcdfd1f4bc67a0c0850e90490abd8588fadc03149445b0a23caeb3773f8aee65e405aaa4818ed2d4b12a5d73874b7b96a010e6e308d93a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/2a7ba762afdc8b5a9c9cd60928896869a71f8f1335d88b9e2efcdfd1f4bc67a0c0850e90490abd8588fadc03149445b0a23caeb3773f8aee65e405aaa4818ed2d4b12a5d73874b7b96a010e6e308d93a",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/2a7ba762afdc8b5a9c9cd60928896869a71f8f1335d88b9e2efcdfd1f4bc67a0c0850e90490abd8588fadc03149445b0a23caeb3773f8aee65e405aaa4818ed2d4b12a5d73874b7b96a010e6e308d93a",
+      "width" : 60
+    } ],
+    "name" : "_DJ",
+    "owner" : {
+      "display_name" : "Larry Williamson",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/l422y"
+      },
+      "href" : "https://api.spotify.com/v1/users/l422y",
+      "id" : "l422y",
+      "type" : "user",
+      "uri" : "spotify:user:l422y"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MjAyLDViMDgzYWNlNDE4MWFlNmQzMGFhYzI1YzIyM2NlNzRhYzE5M2U0NmE=",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/0MpzNNkkprJIAmfi6uUIHA/tracks",
+      "total" : 196
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:0MpzNNkkprJIAmfi6uUIHA"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/2sfDL3FjIIyy8UvGzE4RBo"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/2sfDL3FjIIyy8UvGzE4RBo",
+    "id" : "2sfDL3FjIIyy8UvGzE4RBo",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/3a30bfc1ed6c203ac51ec17ed577cc702a5461496db24e011b6234d8f583b859236477a70fcc5a80830d72c9667c756516b1caef697f474dedeb86f5a51289bc6565c524d0f5eddbefbbb7d1a18f6d60",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/3a30bfc1ed6c203ac51ec17ed577cc702a5461496db24e011b6234d8f583b859236477a70fcc5a80830d72c9667c756516b1caef697f474dedeb86f5a51289bc6565c524d0f5eddbefbbb7d1a18f6d60",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/3a30bfc1ed6c203ac51ec17ed577cc702a5461496db24e011b6234d8f583b859236477a70fcc5a80830d72c9667c756516b1caef697f474dedeb86f5a51289bc6565c524d0f5eddbefbbb7d1a18f6d60",
+      "width" : 60
+    } ],
+    "name" : "_BREAKSDJ",
+    "owner" : {
+      "display_name" : "Larry Williamson",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/l422y"
+      },
+      "href" : "https://api.spotify.com/v1/users/l422y",
+      "id" : "l422y",
+      "type" : "user",
+      "uri" : "spotify:user:l422y"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MTAsYzBiODBlYWMxMjhjNDFhZjdhNjA5MjJlMjg3ZDYyN2E3N2NiY2U5MQ==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/2sfDL3FjIIyy8UvGzE4RBo/tracks",
+      "total" : 8
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:2sfDL3FjIIyy8UvGzE4RBo"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/5nwIjaRt5TMWgmOcP8N0It"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/5nwIjaRt5TMWgmOcP8N0It",
+    "id" : "5nwIjaRt5TMWgmOcP8N0It",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/1e167b692521af5a3d1073c84e9f2ece0d5d52af4179db05ce98de7197072125f888d94ca575f146728793ae8c9f3180bab1eddf30996fff8c7d7f14cf97574c1aad59dacb7c720c85712b5cda848d0c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/1e167b692521af5a3d1073c84e9f2ece0d5d52af4179db05ce98de7197072125f888d94ca575f146728793ae8c9f3180bab1eddf30996fff8c7d7f14cf97574c1aad59dacb7c720c85712b5cda848d0c",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/1e167b692521af5a3d1073c84e9f2ece0d5d52af4179db05ce98de7197072125f888d94ca575f146728793ae8c9f3180bab1eddf30996fff8c7d7f14cf97574c1aad59dacb7c720c85712b5cda848d0c",
+      "width" : 60
+    } ],
+    "name" : "TU2N3R",
+    "owner" : {
+      "display_name" : "Larry Williamson",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/l422y"
+      },
+      "href" : "https://api.spotify.com/v1/users/l422y",
+      "id" : "l422y",
+      "type" : "user",
+      "uri" : "spotify:user:l422y"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MjMsZGRhM2JjZWU2ZTcxYjMyMzgzYzcxM2E3ZjJlMmUzNmM1Y2U1MjMzMA==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/5nwIjaRt5TMWgmOcP8N0It/tracks",
+      "total" : 70
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:5nwIjaRt5TMWgmOcP8N0It"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/7zUKEvyfsDPp5k8QfKzO4P"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/7zUKEvyfsDPp5k8QfKzO4P",
+    "id" : "7zUKEvyfsDPp5k8QfKzO4P",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/72c802049ec4152baeca39c30558751a69f23704a039521f71268a855888eb7d998b5ad4cdce9ea7b9aafe5e93c0da0e1bf625fca2b7872f80099952fc559874e2cc43e60c56765340428b390a74c418",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/72c802049ec4152baeca39c30558751a69f23704a039521f71268a855888eb7d998b5ad4cdce9ea7b9aafe5e93c0da0e1bf625fca2b7872f80099952fc559874e2cc43e60c56765340428b390a74c418",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/72c802049ec4152baeca39c30558751a69f23704a039521f71268a855888eb7d998b5ad4cdce9ea7b9aafe5e93c0da0e1bf625fca2b7872f80099952fc559874e2cc43e60c56765340428b390a74c418",
+      "width" : 60
+    } ],
+    "name" : "SLIP/IPX",
+    "owner" : {
+      "display_name" : "Larry Williamson",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/l422y"
+      },
+      "href" : "https://api.spotify.com/v1/users/l422y",
+      "id" : "l422y",
+      "type" : "user",
+      "uri" : "spotify:user:l422y"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "NTgsN2ZjMDY4ZmVhMGQyMzA2MzI5OTc4ZDFkYTZiODQxYWQ0YjYzYzFiYg==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/7zUKEvyfsDPp5k8QfKzO4P/tracks",
+      "total" : 38
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:7zUKEvyfsDPp5k8QfKzO4P"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/1mzbeTkZCDBeoSNrkHSIyt"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/1mzbeTkZCDBeoSNrkHSIyt",
+    "id" : "1mzbeTkZCDBeoSNrkHSIyt",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/d38e2a0f4e4d2c262eead672c315e57d05264a38d4db3acb1a636000b3c9dc8f9547e29d6c3e6fb1d976ffec2cf752e2033426533696ad0222eddb78f7c26f0732f05a378854e2e993c2be4b8267236a",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/d38e2a0f4e4d2c262eead672c315e57d05264a38d4db3acb1a636000b3c9dc8f9547e29d6c3e6fb1d976ffec2cf752e2033426533696ad0222eddb78f7c26f0732f05a378854e2e993c2be4b8267236a",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/d38e2a0f4e4d2c262eead672c315e57d05264a38d4db3acb1a636000b3c9dc8f9547e29d6c3e6fb1d976ffec2cf752e2033426533696ad0222eddb78f7c26f0732f05a378854e2e993c2be4b8267236a",
+      "width" : 60
+    } ],
+    "name" : "SUMMER MIX 2014",
+    "owner" : {
+      "display_name" : "Larry Williamson",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/l422y"
+      },
+      "href" : "https://api.spotify.com/v1/users/l422y",
+      "id" : "l422y",
+      "type" : "user",
+      "uri" : "spotify:user:l422y"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "NzUsY2JlYjNmYzcxNGMyYjA4ZWM3N2IzMDM1ZTZkZTI5YWE5MDI0YTliMQ==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/1mzbeTkZCDBeoSNrkHSIyt/tracks",
+      "total" : 63
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:1mzbeTkZCDBeoSNrkHSIyt"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/6tFwESSCQmLpcKI4NBdDKL"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/6tFwESSCQmLpcKI4NBdDKL",
+    "id" : "6tFwESSCQmLpcKI4NBdDKL",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/5b5335b602beb725b1b980e1d962e199d6445c267a3bd3fd40c7b5f90eaa1c80659cedf2134c0bf9d4d68da780a6f01d75f623ca759e07d04cf11a84fef9a2b794f093421bbfe17669686fe6bebd7ee9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/5b5335b602beb725b1b980e1d962e199d6445c267a3bd3fd40c7b5f90eaa1c80659cedf2134c0bf9d4d68da780a6f01d75f623ca759e07d04cf11a84fef9a2b794f093421bbfe17669686fe6bebd7ee9",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/5b5335b602beb725b1b980e1d962e199d6445c267a3bd3fd40c7b5f90eaa1c80659cedf2134c0bf9d4d68da780a6f01d75f623ca759e07d04cf11a84fef9a2b794f093421bbfe17669686fe6bebd7ee9",
+      "width" : 60
+    } ],
+    "name" : "FALL 2014",
+    "owner" : {
+      "display_name" : "Larry Williamson",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/l422y"
+      },
+      "href" : "https://api.spotify.com/v1/users/l422y",
+      "id" : "l422y",
+      "type" : "user",
+      "uri" : "spotify:user:l422y"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MTQsNzJkZDE1NTQzN2VlZDNhZjQ0MmU3MzM3ZGM4MGI5YWEzNmUxZGI1NA==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/6tFwESSCQmLpcKI4NBdDKL/tracks",
+      "total" : 10
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:6tFwESSCQmLpcKI4NBdDKL"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/4jRsJ5J8cCO6fhfZfWRd9z"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/4jRsJ5J8cCO6fhfZfWRd9z",
+    "id" : "4jRsJ5J8cCO6fhfZfWRd9z",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/3d099d55ae6ace0d9295b52ef390f5916210240e",
+      "width" : 640
+    } ],
+    "name" : "2mix",
+    "owner" : {
+      "display_name" : "Larry Williamson",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/l422y"
+      },
+      "href" : "https://api.spotify.com/v1/users/l422y",
+      "id" : "l422y",
+      "type" : "user",
+      "uri" : "spotify:user:l422y"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "NSw3NDJhZTBkODE1MDhjNjM4NTE0Y2NjNjIyN2EwMDczZDBhNmY4MmQ3",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/4jRsJ5J8cCO6fhfZfWRd9z/tracks",
+      "total" : 3
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:4jRsJ5J8cCO6fhfZfWRd9z"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/3h6ri229QSp8Cxm5iEcPkt"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/3h6ri229QSp8Cxm5iEcPkt",
+    "id" : "3h6ri229QSp8Cxm5iEcPkt",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8d95505a3bf4d297baaf2de7e038529a5e1f51bf",
+      "width" : 640
+    } ],
+    "name" : "Various Artists – Tzinah Best Of 5 Years",
+    "owner" : {
+      "display_name" : "Larry Williamson",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/l422y"
+      },
+      "href" : "https://api.spotify.com/v1/users/l422y",
+      "id" : "l422y",
+      "type" : "user",
+      "uri" : "spotify:user:l422y"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MyxjMGU1ODNiY2U3MWJiNmQ4YWI2MWEyM2ZiYWNkMTAzMDBkZjhlMzli",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/3h6ri229QSp8Cxm5iEcPkt/tracks",
+      "total" : 25
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:3h6ri229QSp8Cxm5iEcPkt"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/5BdzWoRO89gt4OfXZm6TOu"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/5BdzWoRO89gt4OfXZm6TOu",
+    "id" : "5BdzWoRO89gt4OfXZm6TOu",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9ae40b0b3d85d08d99030d9da1a73fc527050c50",
+      "width" : 640
+    } ],
+    "name" : "Audiofly – Flying Circus Ibiza, Vol. 1 (Compiled & Mixed by Audiofly & Blond:Ish)",
+    "owner" : {
+      "display_name" : "Larry Williamson",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/l422y"
+      },
+      "href" : "https://api.spotify.com/v1/users/l422y",
+      "id" : "l422y",
+      "type" : "user",
+      "uri" : "spotify:user:l422y"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "Myw4OGViNDUyZjkzOTk1ZmZkMzYwZTY3YTYyOGU2MWNjMjMzYjMwZmM1",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/5BdzWoRO89gt4OfXZm6TOu/tracks",
+      "total" : 33
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:5BdzWoRO89gt4OfXZm6TOu"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/5cvRrOt7T56QjnCZgVHjYq"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/5cvRrOt7T56QjnCZgVHjYq",
+    "id" : "5cvRrOt7T56QjnCZgVHjYq",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://pl.scdn.co/images/pl/default/1df51f2971c9a398d6a912dce2e2ad10fe0b6fe3",
+      "width" : null
+    } ],
+    "name" : "The Pulse of Minimal Tech House",
+    "owner" : {
+      "display_name" : "Particle Detector",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/particledetector"
+      },
+      "href" : "https://api.spotify.com/v1/users/particledetector",
+      "id" : "particledetector",
+      "type" : "user",
+      "uri" : "spotify:user:particledetector"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MjkxOCxjOGY5YjIxNmY4NzVjZWZhY2ZhZThkZjhlOGVlZTNjODE1MTE1ZTgz",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/5cvRrOt7T56QjnCZgVHjYq/tracks",
+      "total" : 200
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:5cvRrOt7T56QjnCZgVHjYq"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DXa8NOEUWPn9W"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DXa8NOEUWPn9W",
+    "id" : "37i9dQZF1DXa8NOEUWPn9W",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://pl.scdn.co/images/pl/default/ea3bff61be5dc40eb81c00f55e6082dff85646a3",
+      "width" : null
+    } ],
+    "name" : "Housewerk",
+    "owner" : {
+      "display_name" : "Spotify",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/spotify"
+      },
+      "href" : "https://api.spotify.com/v1/users/spotify",
+      "id" : "spotify",
+      "type" : "user",
+      "uri" : "spotify:user:spotify"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MTU2NTIwMzI4MiwwMDAwMDEzNDAwMDAwMTZjNmQ2MmI4ZmIwMDAwMDE2YzNlNWFlNjNl",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DXa8NOEUWPn9W/tracks",
+      "total" : 295
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:37i9dQZF1DXa8NOEUWPn9W"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX1OIMC8iDi74"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX1OIMC8iDi74",
+    "id" : "37i9dQZF1DX1OIMC8iDi74",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://pl.scdn.co/images/pl/default/160b330ba58c5030ff2ce438e07450dcce1ebcb0",
+      "width" : null
+    } ],
+    "name" : "Trap Mojito",
+    "owner" : {
+      "display_name" : "Spotify",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/spotify"
+      },
+      "href" : "https://api.spotify.com/v1/users/spotify",
+      "id" : "spotify",
+      "type" : "user",
+      "uri" : "spotify:user:spotify"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MTU2NjExNjc3NiwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX1OIMC8iDi74/tracks",
+      "total" : 80
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:37i9dQZF1DX1OIMC8iDi74"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/27HInsqBLortLBa53cwTBU"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/27HInsqBLortLBa53cwTBU",
+    "id" : "27HInsqBLortLBa53cwTBU",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://pl.scdn.co/images/pl/default/6f4e71c952744e9405323677214ed16398d1d7f7",
+      "width" : null
+    } ],
+    "name" : "The Edge of Minimal Tech House",
+    "owner" : {
+      "display_name" : "Particle Detector",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/particledetector"
+      },
+      "href" : "https://api.spotify.com/v1/users/particledetector",
+      "id" : "particledetector",
+      "type" : "user",
+      "uri" : "spotify:user:particledetector"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "Mjg4NyxiYTU0ZTE1NDM1YzBjZTk0YzJhNjc0ZmNhNGVhODFjMzBmYjNhMmYw",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/27HInsqBLortLBa53cwTBU/tracks",
+      "total" : 200
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:27HInsqBLortLBa53cwTBU"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/0zH59Mv2ZqqwOOAnFMU068"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/0zH59Mv2ZqqwOOAnFMU068",
+    "id" : "0zH59Mv2ZqqwOOAnFMU068",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/2a80a293c8e610864c08ebef87a63b8054896ace684a9edad031bcc30848f40cabae9d5b7516249790effdaef960721537ec50c68989ec7c70f2f284ddb3e5d8e0cdd457ff354927a2d6db46ec4bfa81",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/2a80a293c8e610864c08ebef87a63b8054896ace684a9edad031bcc30848f40cabae9d5b7516249790effdaef960721537ec50c68989ec7c70f2f284ddb3e5d8e0cdd457ff354927a2d6db46ec4bfa81",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/2a80a293c8e610864c08ebef87a63b8054896ace684a9edad031bcc30848f40cabae9d5b7516249790effdaef960721537ec50c68989ec7c70f2f284ddb3e5d8e0cdd457ff354927a2d6db46ec4bfa81",
+      "width" : 60
+    } ],
+    "name" : "Back To Life - 90's soul",
+    "owner" : {
+      "display_name" : "Duane Dobson",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/duanedobson"
+      },
+      "href" : "https://api.spotify.com/v1/users/duanedobson",
+      "id" : "duanedobson",
+      "type" : "user",
+      "uri" : "spotify:user:duanedobson"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MTcsNTI5YzIxYzUwMmNkYmY1Mjc1ZDQzMjI3ZTJjYjIzZGUwZDY3NzBlMw==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/0zH59Mv2ZqqwOOAnFMU068/tracks",
+      "total" : 63
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:0zH59Mv2ZqqwOOAnFMU068"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/3NV30wFRo34AIsHlIr2pBK"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/3NV30wFRo34AIsHlIr2pBK",
+    "id" : "3NV30wFRo34AIsHlIr2pBK",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/1445d28c88919f78e9d1e53e103b9555d2d3a28f4125d503943a1131bf6d9631e064ec1d37fe52405e2ff5a53e4f4ecce5444fa57ea92f5f42003e406ecdc905c9083946ddd56eb2d03c728dbceeb395",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/1445d28c88919f78e9d1e53e103b9555d2d3a28f4125d503943a1131bf6d9631e064ec1d37fe52405e2ff5a53e4f4ecce5444fa57ea92f5f42003e406ecdc905c9083946ddd56eb2d03c728dbceeb395",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/1445d28c88919f78e9d1e53e103b9555d2d3a28f4125d503943a1131bf6d9631e064ec1d37fe52405e2ff5a53e4f4ecce5444fa57ea92f5f42003e406ecdc905c9083946ddd56eb2d03c728dbceeb395",
+      "width" : 60
+    } ],
+    "name" : "chilled out",
+    "owner" : {
+      "display_name" : "Larry Williamson",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/l422y"
+      },
+      "href" : "https://api.spotify.com/v1/users/l422y",
+      "id" : "l422y",
+      "type" : "user",
+      "uri" : "spotify:user:l422y"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "NixhNzJlNmRiMDZjZGY5Y2M2OTU0NDAxNmU4MjBiYjBjNzRjMjE1ODE4",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/3NV30wFRo34AIsHlIr2pBK/tracks",
+      "total" : 4
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:3NV30wFRo34AIsHlIr2pBK"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/0EOg0S8tE0Hhy75eoGkiia"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/0EOg0S8tE0Hhy75eoGkiia",
+    "id" : "0EOg0S8tE0Hhy75eoGkiia",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/08cf71887d8c053069b2b8c6886b86449f3cc1f714c405627998538428dd7d85e36caab410ea964f6dc40ac46671c1e62fd2753418417541981983c7c3e58585c66a8a898411f0b3b70ddb9a9e311ca7",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/08cf71887d8c053069b2b8c6886b86449f3cc1f714c405627998538428dd7d85e36caab410ea964f6dc40ac46671c1e62fd2753418417541981983c7c3e58585c66a8a898411f0b3b70ddb9a9e311ca7",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/08cf71887d8c053069b2b8c6886b86449f3cc1f714c405627998538428dd7d85e36caab410ea964f6dc40ac46671c1e62fd2753418417541981983c7c3e58585c66a8a898411f0b3b70ddb9a9e311ca7",
+      "width" : 60
+    } ],
+    "name" : "Law of Entropy - Cristoph Remix – Jobe",
+    "owner" : {
+      "display_name" : "Larry Williamson",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/l422y"
+      },
+      "href" : "https://api.spotify.com/v1/users/l422y",
+      "id" : "l422y",
+      "type" : "user",
+      "uri" : "spotify:user:l422y"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "Nyw0NjM5NGZmYjEzYTE1ZTEyNjNhMDVmMTM0YTViMzhhYzIxOGEyMDE4",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/0EOg0S8tE0Hhy75eoGkiia/tracks",
+      "total" : 5
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:0EOg0S8tE0Hhy75eoGkiia"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/5Cpiu1DErBjwBlqT0Tn2vM"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/5Cpiu1DErBjwBlqT0Tn2vM",
+    "id" : "5Cpiu1DErBjwBlqT0Tn2vM",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/4ba87f38f20d96b31bc8947b7f19ce8265fd0157",
+      "width" : 640
+    } ],
+    "name" : "HOUSE",
+    "owner" : {
+      "display_name" : "Larry Williamson",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/l422y"
+      },
+      "href" : "https://api.spotify.com/v1/users/l422y",
+      "id" : "l422y",
+      "type" : "user",
+      "uri" : "spotify:user:l422y"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "Myw3YTkyN2NiZmNmNjE4NzliNzdjN2FmNGY4MzczMmE4M2FhOWNmZDU2",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/5Cpiu1DErBjwBlqT0Tn2vM/tracks",
+      "total" : 1
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:5Cpiu1DErBjwBlqT0Tn2vM"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/11j9WiX672dSTGF2xiIzZd"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/11j9WiX672dSTGF2xiIzZd",
+    "id" : "11j9WiX672dSTGF2xiIzZd",
+    "images" : [ ],
+    "name" : "BREAKS",
+    "owner" : {
+      "display_name" : "Larry Williamson",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/l422y"
+      },
+      "href" : "https://api.spotify.com/v1/users/l422y",
+      "id" : "l422y",
+      "type" : "user",
+      "uri" : "spotify:user:l422y"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "Nyw2ZWExN2Y4Yzc3MjdlZTIwNzg0Mzc4ZGI0YTIyYTBiYjE4MTg2MGZi",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/11j9WiX672dSTGF2xiIzZd/tracks",
+      "total" : 4
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:11j9WiX672dSTGF2xiIzZd"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/5Q8Njo6JpRFMl340AAd5OD"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/5Q8Njo6JpRFMl340AAd5OD",
+    "id" : "5Q8Njo6JpRFMl340AAd5OD",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/42453d0cd67537141d16d884717a3f79094e694c8945376ae511836deb3e1e4bd994d8f40e0db652d9d1713b4074946e0c60693bf9682af8b5e6b8b5f0011a58f46706980ba60e1644f514346952c131",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/42453d0cd67537141d16d884717a3f79094e694c8945376ae511836deb3e1e4bd994d8f40e0db652d9d1713b4074946e0c60693bf9682af8b5e6b8b5f0011a58f46706980ba60e1644f514346952c131",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/42453d0cd67537141d16d884717a3f79094e694c8945376ae511836deb3e1e4bd994d8f40e0db652d9d1713b4074946e0c60693bf9682af8b5e6b8b5f0011a58f46706980ba60e1644f514346952c131",
+      "width" : 60
+    } ],
+    "name" : "Best New Music 2015",
+    "owner" : {
+      "display_name" : "Pitchfork",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/pitchfork"
+      },
+      "href" : "https://api.spotify.com/v1/users/pitchfork",
+      "id" : "pitchfork",
+      "type" : "user",
+      "uri" : "spotify:user:pitchfork"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "Myw0MDFlMGMyZDZkNDE2YzJhMDM2YjQ2MTY5NTA4MTMwZGQ0NDI0ZjJk",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/5Q8Njo6JpRFMl340AAd5OD/tracks",
+      "total" : 24
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:5Q8Njo6JpRFMl340AAd5OD"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/7MsV1xaQMlE3QYmUBimoXy"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/7MsV1xaQMlE3QYmUBimoXy",
+    "id" : "7MsV1xaQMlE3QYmUBimoXy",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/14b74ba3b187c927cae8dbba1880d50dd443ded525e3ce9ad8c2fad2d70c925690a1c1ae192015fe2728eaae7b9ed359ad9e18fe610bff4935a2add08163dfb20f6a68b567b6f3309f0f6d9868906a47",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/14b74ba3b187c927cae8dbba1880d50dd443ded525e3ce9ad8c2fad2d70c925690a1c1ae192015fe2728eaae7b9ed359ad9e18fe610bff4935a2add08163dfb20f6a68b567b6f3309f0f6d9868906a47",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/14b74ba3b187c927cae8dbba1880d50dd443ded525e3ce9ad8c2fad2d70c925690a1c1ae192015fe2728eaae7b9ed359ad9e18fe610bff4935a2add08163dfb20f6a68b567b6f3309f0f6d9868906a47",
+      "width" : 60
+    } ],
+    "name" : "SUMMER FEEL GOOD WAVY JAMS",
+    "owner" : {
+      "display_name" : "Larry Williamson",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/l422y"
+      },
+      "href" : "https://api.spotify.com/v1/users/l422y",
+      "id" : "l422y",
+      "type" : "user",
+      "uri" : "spotify:user:l422y"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MjAsNmNiOGQyYmYyYjM0MzU5MmY4NWJjNzJiOTc0YzI2Njk3OTkwNjk1Mw==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/7MsV1xaQMlE3QYmUBimoXy/tracks",
+      "total" : 13
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:7MsV1xaQMlE3QYmUBimoXy"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWSfMe9z89s9B"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWSfMe9z89s9B",
+    "id" : "37i9dQZF1DWSfMe9z89s9B",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://pl.scdn.co/images/pl/default/5f24d91067025ffa8783e7669a524e6535b9e9d6",
+      "width" : null
+    } ],
+    "name" : "Alternative R&B",
+    "owner" : {
+      "display_name" : "Spotify",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/spotify"
+      },
+      "href" : "https://api.spotify.com/v1/users/spotify",
+      "id" : "spotify",
+      "type" : "user",
+      "uri" : "spotify:user:spotify"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MTU2NTk4Mjk2NiwwMDAwMDA5YzAwMDAwMTZjOWJkYmMzYWQwMDAwMDE2YzliZGE5Y2Nj",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWSfMe9z89s9B/tracks",
+      "total" : 121
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:37i9dQZF1DWSfMe9z89s9B"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/1RKtKRcejWjN6ZOkghImIV"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/1RKtKRcejWjN6ZOkghImIV",
+    "id" : "1RKtKRcejWjN6ZOkghImIV",
+    "images" : [ {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1d91a06537eadc69f2b0330b1d35db17a31ecc0d",
+      "width" : 300
+    } ],
+    "name" : "Bullet for Hell",
+    "owner" : {
+      "display_name" : "Spotify",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/spotify"
+      },
+      "href" : "https://api.spotify.com/v1/users/spotify",
+      "id" : "spotify",
+      "type" : "user",
+      "uri" : "spotify:user:spotify"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "NCxhYTc1ZDM1NzVkMGRiNWEyZjA5NDcxMTFkNmE1MGQyYjRkNDc3NmMy",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/1RKtKRcejWjN6ZOkghImIV/tracks",
+      "total" : 20
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:1RKtKRcejWjN6ZOkghImIV"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/0NuixyWGNUQ5TMQ2eeH51u"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/0NuixyWGNUQ5TMQ2eeH51u",
+    "id" : "0NuixyWGNUQ5TMQ2eeH51u",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/84883a8fc5dc7f4019838562a5e258019c66130087982737e43f86e172dbf9897f6e437fde2d7caf9b6b75f5325c12deb0e5ef9754f60026bbbbbb47e28b850ad6205b2d37900fe22d1aa7e032ee3bec",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/84883a8fc5dc7f4019838562a5e258019c66130087982737e43f86e172dbf9897f6e437fde2d7caf9b6b75f5325c12deb0e5ef9754f60026bbbbbb47e28b850ad6205b2d37900fe22d1aa7e032ee3bec",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/84883a8fc5dc7f4019838562a5e258019c66130087982737e43f86e172dbf9897f6e437fde2d7caf9b6b75f5325c12deb0e5ef9754f60026bbbbbb47e28b850ad6205b2d37900fe22d1aa7e032ee3bec",
+      "width" : 60
+    } ],
+    "name" : "Top 100 Tracks of 2013",
+    "owner" : {
+      "display_name" : "Pitchfork",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/pitchfork"
+      },
+      "href" : "https://api.spotify.com/v1/users/pitchfork",
+      "id" : "pitchfork",
+      "type" : "user",
+      "uri" : "spotify:user:pitchfork"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "NSxiOTIxYjZhZjkyOTY2NGI4Nzk2OTYxMDZmMDZlYzFhNjEwMzM5YWJk",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/0NuixyWGNUQ5TMQ2eeH51u/tracks",
+      "total" : 86
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:0NuixyWGNUQ5TMQ2eeH51u"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/7aYQsrQxsuyTHImmdsCZtU"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/7aYQsrQxsuyTHImmdsCZtU",
+    "id" : "7aYQsrQxsuyTHImmdsCZtU",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://pl.scdn.co/images/pl/default/a1f43ec40a75f5bd7e8b8668c370a8a5de683256",
+      "width" : null
+    } ],
+    "name" : "Liquid DNB <3 Liquicity!",
+    "owner" : {
+      "display_name" : "Sebastian Källstedt",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/kellarn"
+      },
+      "href" : "https://api.spotify.com/v1/users/kellarn",
+      "id" : "kellarn",
+      "type" : "user",
+      "uri" : "spotify:user:kellarn"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "OTMzLGQ1MDA0Yjc3MjY0YzQyZmY5MGU4OGVhYWY5MjJkNTU4OTQ4MjE1N2Y=",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/7aYQsrQxsuyTHImmdsCZtU/tracks",
+      "total" : 565
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:7aYQsrQxsuyTHImmdsCZtU"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWZeKCadgRdKQ"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWZeKCadgRdKQ",
+    "id" : "37i9dQZF1DWZeKCadgRdKQ",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://pl.scdn.co/images/pl/default/47b2162c9833fe9f3d5e2f56c5aa8157e1cca81a",
+      "width" : null
+    } ],
+    "name" : "Deep Focus",
+    "owner" : {
+      "display_name" : "Spotify",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/spotify"
+      },
+      "href" : "https://api.spotify.com/v1/users/spotify",
+      "id" : "spotify",
+      "type" : "user",
+      "uri" : "spotify:user:spotify"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MTU2NDUyMzg4NiwwMDAwMDA2ZDAwMDAwMTZjNDRlM2Y5MTkwMDAwMDE2ODk4Y2NiNmJk",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWZeKCadgRdKQ/tracks",
+      "total" : 175
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:37i9dQZF1DWZeKCadgRdKQ"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/3K84YzgjfyyEYcvPsWyJFa"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/3K84YzgjfyyEYcvPsWyJFa",
+    "id" : "3K84YzgjfyyEYcvPsWyJFa",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/119357676346e6d425315b419cb8f326848cb1fa2a1667de2f3c829597c5f1e06ce5bd1cb7c24e7740a9ab15b25c0ae539fa7a77593c90b0ad151a15c1ae884a05a6e61bce9338c4d168887feee3eba2",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/119357676346e6d425315b419cb8f326848cb1fa2a1667de2f3c829597c5f1e06ce5bd1cb7c24e7740a9ab15b25c0ae539fa7a77593c90b0ad151a15c1ae884a05a6e61bce9338c4d168887feee3eba2",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/119357676346e6d425315b419cb8f326848cb1fa2a1667de2f3c829597c5f1e06ce5bd1cb7c24e7740a9ab15b25c0ae539fa7a77593c90b0ad151a15c1ae884a05a6e61bce9338c4d168887feee3eba2",
+      "width" : 60
+    } ],
+    "name" : "Top 100 Singles of 2000-04",
+    "owner" : {
+      "display_name" : "Pitchfork",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/pitchfork"
+      },
+      "href" : "https://api.spotify.com/v1/users/pitchfork",
+      "id" : "pitchfork",
+      "type" : "user",
+      "uri" : "spotify:user:pitchfork"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "NSw5MjI1N2Y4NTljNzgwYWExMjAwYzBiOWFjM2M0M2ZmMTJiMTY4MDU3",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/3K84YzgjfyyEYcvPsWyJFa/tracks",
+      "total" : 90
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:3K84YzgjfyyEYcvPsWyJFa"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/4EBvy8BO60edgxp7lJelvQ"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/4EBvy8BO60edgxp7lJelvQ",
+    "id" : "4EBvy8BO60edgxp7lJelvQ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/2a8f6dba52ea827b269353e12359905f221d8f3c4bc782cccc27aa15feb8debd4e34eb9ddbe7a5026403b8e7fc9ef9e775cee928fada15848eb47d309975e7be49ec561704d33e3263c6e89c1ce73dd3",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/2a8f6dba52ea827b269353e12359905f221d8f3c4bc782cccc27aa15feb8debd4e34eb9ddbe7a5026403b8e7fc9ef9e775cee928fada15848eb47d309975e7be49ec561704d33e3263c6e89c1ce73dd3",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/2a8f6dba52ea827b269353e12359905f221d8f3c4bc782cccc27aa15feb8debd4e34eb9ddbe7a5026403b8e7fc9ef9e775cee928fada15848eb47d309975e7be49ec561704d33e3263c6e89c1ce73dd3",
+      "width" : 60
+    } ],
+    "name" : "1960s/1970s Top Tracks, Combined List [Rock, Pop, Folk, Soul, Hippie, Country, Disco, Punk, Radio, Cult Artists etc Songs Best Hits 70s 60s, Greatest]",
+    "owner" : {
+      "display_name" : "Michael Thomsen",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/113192036"
+      },
+      "href" : "https://api.spotify.com/v1/users/113192036",
+      "id" : "113192036",
+      "type" : "user",
+      "uri" : "spotify:user:113192036"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MTAyMixkZmJmMjM5NWE1NTA0ZWM3ZDdkYzY0MWIzYTZmYWE3ZDc3ZTg1MGIy",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/4EBvy8BO60edgxp7lJelvQ/tracks",
+      "total" : 3104
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:4EBvy8BO60edgxp7lJelvQ"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/3KeyXOxLVSbqabBGuBBTu3"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/3KeyXOxLVSbqabBGuBBTu3",
+    "id" : "3KeyXOxLVSbqabBGuBBTu3",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/39cd4cc6bcbfdfc78f915e10be8d5c82124e4c4d",
+      "width" : 640
+    } ],
+    "name" : "DJ's Eric Berretta & Supernaut – Future Sound of Breaks Volume 2",
+    "owner" : {
+      "display_name" : "Larry Williamson",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/l422y"
+      },
+      "href" : "https://api.spotify.com/v1/users/l422y",
+      "id" : "l422y",
+      "type" : "user",
+      "uri" : "spotify:user:l422y"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MywwOGZmZDRlODFmNzVlZmFjOTFmMGRlZWJhMDMxOGYxNjg5MmNjNzQz",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/3KeyXOxLVSbqabBGuBBTu3/tracks",
+      "total" : 14
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:3KeyXOxLVSbqabBGuBBTu3"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/1TV7YkzbE6zWdpDgx6jdLR"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/1TV7YkzbE6zWdpDgx6jdLR",
+    "id" : "1TV7YkzbE6zWdpDgx6jdLR",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/de9fcb6d1af46d3d761a825a101b57540df92fd2",
+      "width" : 640
+    } ],
+    "name" : "311 – Stereolithic",
+    "owner" : {
+      "display_name" : "Larry Williamson",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/l422y"
+      },
+      "href" : "https://api.spotify.com/v1/users/l422y",
+      "id" : "l422y",
+      "type" : "user",
+      "uri" : "spotify:user:l422y"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MixjMzdlMzFjYjFjZDQyNDIzMGNjYjlhM2Q4YzE3NjkwNTg2NzA0ZDYw",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/1TV7YkzbE6zWdpDgx6jdLR/tracks",
+      "total" : 15
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:1TV7YkzbE6zWdpDgx6jdLR"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/2iSZfKi7NhTsRXBEcdYxOw"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/2iSZfKi7NhTsRXBEcdYxOw",
+    "id" : "2iSZfKi7NhTsRXBEcdYxOw",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/50a65eee36789d88dad76a396c6f41ff562323b37e661e443083a9f6ce566bf25d28b437a244e5d6ca65d673c33c8ce97a0124ecf9ce4274b464c30ef0d124ff8d5df7737bed7a1406706fd0f39e30f7",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/50a65eee36789d88dad76a396c6f41ff562323b37e661e443083a9f6ce566bf25d28b437a244e5d6ca65d673c33c8ce97a0124ecf9ce4274b464c30ef0d124ff8d5df7737bed7a1406706fd0f39e30f7",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/50a65eee36789d88dad76a396c6f41ff562323b37e661e443083a9f6ce566bf25d28b437a244e5d6ca65d673c33c8ce97a0124ecf9ce4274b464c30ef0d124ff8d5df7737bed7a1406706fd0f39e30f7",
+      "width" : 60
+    } ],
+    "name" : "Ghostly",
+    "owner" : {
+      "display_name" : "Larry Williamson",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/l422y"
+      },
+      "href" : "https://api.spotify.com/v1/users/l422y",
+      "id" : "l422y",
+      "type" : "user",
+      "uri" : "spotify:user:l422y"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MTMsODJkNjc4MTA3MmI1MjRiNTMwM2I0ZjVmMDUyZjNhZDMyZTNjYjliMw==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/2iSZfKi7NhTsRXBEcdYxOw/tracks",
+      "total" : 208
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:2iSZfKi7NhTsRXBEcdYxOw"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/2K9UKYWTtSsPnx4ZCmymiS"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/2K9UKYWTtSsPnx4ZCmymiS",
+    "id" : "2K9UKYWTtSsPnx4ZCmymiS",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/051b0251984adf1530bb2e57693f875b74805d121adfca08ca05c6d0940d11509b081b3e9b281ba6af62eb51023f6fc1b1d9e4cdd8af93283042a7bbb99b0f2f799051d4acb1edcab07838ab15442b33",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/051b0251984adf1530bb2e57693f875b74805d121adfca08ca05c6d0940d11509b081b3e9b281ba6af62eb51023f6fc1b1d9e4cdd8af93283042a7bbb99b0f2f799051d4acb1edcab07838ab15442b33",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/051b0251984adf1530bb2e57693f875b74805d121adfca08ca05c6d0940d11509b081b3e9b281ba6af62eb51023f6fc1b1d9e4cdd8af93283042a7bbb99b0f2f799051d4acb1edcab07838ab15442b33",
+      "width" : 60
+    } ],
+    "name" : "Kompakt",
+    "owner" : {
+      "display_name" : "Larry Williamson",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/l422y"
+      },
+      "href" : "https://api.spotify.com/v1/users/l422y",
+      "id" : "l422y",
+      "type" : "user",
+      "uri" : "spotify:user:l422y"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MTIsNTNiMDE4OGEzMmNhNjQ3YzFhNzIzNDQ2ZTFhNmVlZTg5Njc0YWRkMw==",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/2K9UKYWTtSsPnx4ZCmymiS/tracks",
+      "total" : 1053
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:2K9UKYWTtSsPnx4ZCmymiS"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/1sySWun4lSWuTE9qxUGccS"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/1sySWun4lSWuTE9qxUGccS",
+    "id" : "1sySWun4lSWuTE9qxUGccS",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/49c313dbab13c79ddc8ab4a1bae9f69ac0255f39",
+      "width" : 640
+    } ],
+    "name" : "Ludacris – Chicken - N - Beer",
+    "owner" : {
+      "display_name" : "Larry Williamson",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/l422y"
+      },
+      "href" : "https://api.spotify.com/v1/users/l422y",
+      "id" : "l422y",
+      "type" : "user",
+      "uri" : "spotify:user:l422y"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "Miw5NzFhYTZiYzlhZmY3MDYyNzM1MDBmNWI4ODE3ZTAzZjYwZjY0OTFm",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/1sySWun4lSWuTE9qxUGccS/tracks",
+      "total" : 17
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:1sySWun4lSWuTE9qxUGccS"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/7dRfU7vYOSEDnoKIzbVNb3"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/7dRfU7vYOSEDnoKIzbVNb3",
+    "id" : "7dRfU7vYOSEDnoKIzbVNb3",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/5434a3f4cb2b2bae89a92c9d59a921efef1d6058",
+      "width" : 640
+    } ],
+    "name" : "Daft Punk — Alive 2007",
+    "owner" : {
+      "display_name" : "Larry Williamson",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/l422y"
+      },
+      "href" : "https://api.spotify.com/v1/users/l422y",
+      "id" : "l422y",
+      "type" : "user",
+      "uri" : "spotify:user:l422y"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "MixkN2Q4OWMxMjExZGNmYmQ1OTA4ZDJmMmM2ZGNlYTU1M2VhMDg0OGQ5",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/7dRfU7vYOSEDnoKIzbVNb3/tracks",
+      "total" : 13
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:7dRfU7vYOSEDnoKIzbVNb3"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/6fpmvyKDMpRgrunwCskpp2"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/6fpmvyKDMpRgrunwCskpp2",
+    "id" : "6fpmvyKDMpRgrunwCskpp2",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/084314774e8a348c00ddd47bb80bf4ddf0dcfaa1",
+      "width" : 640
+    } ],
+    "name" : "Various Artists – The Quiet Room, Vol. 1",
+    "owner" : {
+      "display_name" : "Larry Williamson",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/l422y"
+      },
+      "href" : "https://api.spotify.com/v1/users/l422y",
+      "id" : "l422y",
+      "type" : "user",
+      "uri" : "spotify:user:l422y"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "Myw1N2E4ZWJlNjUyNzE5ZmJiYTg2N2Y4OWYzMGE2NjM3NDllMzM4OWQ2",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/6fpmvyKDMpRgrunwCskpp2/tracks",
+      "total" : 21
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:6fpmvyKDMpRgrunwCskpp2"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/598SdusmH5G0pGGGDDlRWH"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/598SdusmH5G0pGGGDDlRWH",
+    "id" : "598SdusmH5G0pGGGDDlRWH",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/a7c9533c3aa28424cdcbd134509b5bab3521a6a9",
+      "width" : 640
+    } ],
+    "name" : "The Promise",
+    "owner" : {
+      "display_name" : "Larry Williamson",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/l422y"
+      },
+      "href" : "https://api.spotify.com/v1/users/l422y",
+      "id" : "l422y",
+      "type" : "user",
+      "uri" : "spotify:user:l422y"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "NCxmMWM0MGEzZTUwZGY0YTk0MWEwYjlhMmFmYzM0OWNiZGY1MzlmNjUy",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/598SdusmH5G0pGGGDDlRWH/tracks",
+      "total" : 3
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:598SdusmH5G0pGGGDDlRWH"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/2weCMzecTEDuTgf9hSx1fp"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/2weCMzecTEDuTgf9hSx1fp",
+    "id" : "2weCMzecTEDuTgf9hSx1fp",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/36425738a8ce9e55f23411b47744520dbc75ffe5",
+      "width" : 640
+    } ],
+    "name" : "tranx",
+    "owner" : {
+      "display_name" : "Larry Williamson",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/l422y"
+      },
+      "href" : "https://api.spotify.com/v1/users/l422y",
+      "id" : "l422y",
+      "type" : "user",
+      "uri" : "spotify:user:l422y"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "Niw4ZGNmMzhhNjYzZWQxMzQzYzVmNWZjZDY3ZWMxMzBhOTdhMzM5ZmE0",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/2weCMzecTEDuTgf9hSx1fp/tracks",
+      "total" : 4
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:2weCMzecTEDuTgf9hSx1fp"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/3J94ZpyJbWv5OOLZmv7FAh"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/3J94ZpyJbWv5OOLZmv7FAh",
+    "id" : "3J94ZpyJbWv5OOLZmv7FAh",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/02a6e0894c93909845e3815f7ac21ba5d62b0f0a347c9acc61cf8b90fd4a654b5520a68313255ed0584f8738df460261fa80768924f3fd1df7f426d4891de4feb8c452cb627873b6c9dc4881ccfd2de4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/02a6e0894c93909845e3815f7ac21ba5d62b0f0a347c9acc61cf8b90fd4a654b5520a68313255ed0584f8738df460261fa80768924f3fd1df7f426d4891de4feb8c452cb627873b6c9dc4881ccfd2de4",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/02a6e0894c93909845e3815f7ac21ba5d62b0f0a347c9acc61cf8b90fd4a654b5520a68313255ed0584f8738df460261fa80768924f3fd1df7f426d4891de4feb8c452cb627873b6c9dc4881ccfd2de4",
+      "width" : 60
+    } ],
+    "name" : "let loose",
+    "owner" : {
+      "display_name" : "Larry Williamson",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/l422y"
+      },
+      "href" : "https://api.spotify.com/v1/users/l422y",
+      "id" : "l422y",
+      "type" : "user",
+      "uri" : "spotify:user:l422y"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "OSxjZWVmZmU0MDAzMGNlNzMxMmUwOGViN2JhZTAwNWUwZTk2ZTc3NTY1",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/3J94ZpyJbWv5OOLZmv7FAh/tracks",
+      "total" : 7
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:3J94ZpyJbWv5OOLZmv7FAh"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/7IzSbE3enxjpDz8LKFFYcA"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/7IzSbE3enxjpDz8LKFFYcA",
+    "id" : "7IzSbE3enxjpDz8LKFFYcA",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/c8158793e47b777c99792cf8b4886807417589b0",
+      "width" : 640
+    } ],
+    "name" : "love",
+    "owner" : {
+      "display_name" : "Larry Williamson",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/l422y"
+      },
+      "href" : "https://api.spotify.com/v1/users/l422y",
+      "id" : "l422y",
+      "type" : "user",
+      "uri" : "spotify:user:l422y"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "Niw5OWMyOWIwM2M5MmFmYzhjMTVjM2YzYWRkZjQyZmI5MTg0MzMzYjFl",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/7IzSbE3enxjpDz8LKFFYcA/tracks",
+      "total" : 2
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:7IzSbE3enxjpDz8LKFFYcA"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/playlist/1ayYBy5F3dYhg8ebZo3W5m"
+    },
+    "href" : "https://api.spotify.com/v1/playlists/1ayYBy5F3dYhg8ebZo3W5m",
+    "id" : "1ayYBy5F3dYhg8ebZo3W5m",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/d2fa48dd25569719b5f0e18a895b0de94dbaac6c",
+      "width" : 640
+    } ],
+    "name" : "slow and low",
+    "owner" : {
+      "display_name" : "Larry Williamson",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/l422y"
+      },
+      "href" : "https://api.spotify.com/v1/users/l422y",
+      "id" : "l422y",
+      "type" : "user",
+      "uri" : "spotify:user:l422y"
+    },
+    "primary_color" : null,
+    "public" : true,
+    "snapshot_id" : "NSxkNzI2NDE0NmYyNWFlY2ExNDU1N2U3ODQxYzAyZWQzYjE0Y2RmY2Q0",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/playlists/1ayYBy5F3dYhg8ebZo3W5m/tracks",
+      "total" : 3
+    },
+    "type" : "playlist",
+    "uri" : "spotify:playlist:1ayYBy5F3dYhg8ebZo3W5m"
+  },
+    {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/0riO4o9oxK3cTJXfpccvJR"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/0riO4o9oxK3cTJXfpccvJR",
+      "id" : "0riO4o9oxK3cTJXfpccvJR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://mosaic.scdn.co/640/3c2dc6d7c846e0f8d816234284f2dd756f88a49baf5597ca69007b39e6be0d424f6a169e92cbaff0d847f22d4f5481febb1051b6e4661a37a216aff1d855a7c660157ee1587de1a6f782071863c89155",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://mosaic.scdn.co/300/3c2dc6d7c846e0f8d816234284f2dd756f88a49baf5597ca69007b39e6be0d424f6a169e92cbaff0d847f22d4f5481febb1051b6e4661a37a216aff1d855a7c660157ee1587de1a6f782071863c89155",
+        "width" : 300
+      }, {
+        "height" : 60,
+        "url" : "https://mosaic.scdn.co/60/3c2dc6d7c846e0f8d816234284f2dd756f88a49baf5597ca69007b39e6be0d424f6a169e92cbaff0d847f22d4f5481febb1051b6e4661a37a216aff1d855a7c660157ee1587de1a6f782071863c89155",
+        "width" : 60
+      } ],
+      "name" : "indie",
+      "owner" : {
+        "display_name" : "Larry Williamson",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/l422y"
+        },
+        "href" : "https://api.spotify.com/v1/users/l422y",
+        "id" : "l422y",
+        "type" : "user",
+        "uri" : "spotify:user:l422y"
+      },
+      "primary_color" : null,
+      "public" : true,
+      "snapshot_id" : "NiwwYzE1MWQ3ZDY3ZDhlYThmNjEzNzAxMWJlNzU3MmE0NWQ5NmMyMWRk",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/0riO4o9oxK3cTJXfpccvJR/tracks",
+        "total" : 4
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:0riO4o9oxK3cTJXfpccvJR"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/0Q9dG9XAMXwvEHAQWpxIPe"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/0Q9dG9XAMXwvEHAQWpxIPe",
+      "id" : "0Q9dG9XAMXwvEHAQWpxIPe",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://mosaic.scdn.co/640/30db49b03fa7599c8e20c28ab397fd02a3df55df38d49db4af0dc36426c2f71fe3a4b420dcbbdbb66eb1bdf45df1edeed16a497dd1a8daf114cdc58fe8ca3b6accebbee79f3f20632553bc8c067266b6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://mosaic.scdn.co/300/30db49b03fa7599c8e20c28ab397fd02a3df55df38d49db4af0dc36426c2f71fe3a4b420dcbbdbb66eb1bdf45df1edeed16a497dd1a8daf114cdc58fe8ca3b6accebbee79f3f20632553bc8c067266b6",
+        "width" : 300
+      }, {
+        "height" : 60,
+        "url" : "https://mosaic.scdn.co/60/30db49b03fa7599c8e20c28ab397fd02a3df55df38d49db4af0dc36426c2f71fe3a4b420dcbbdbb66eb1bdf45df1edeed16a497dd1a8daf114cdc58fe8ca3b6accebbee79f3f20632553bc8c067266b6",
+        "width" : 60
+      } ],
+      "name" : "jack",
+      "owner" : {
+        "display_name" : "Larry Williamson",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/l422y"
+        },
+        "href" : "https://api.spotify.com/v1/users/l422y",
+        "id" : "l422y",
+        "type" : "user",
+        "uri" : "spotify:user:l422y"
+      },
+      "primary_color" : null,
+      "public" : true,
+      "snapshot_id" : "MTMsNTVkNThmZThmNmUwMTY5OTFkNTE3MTNjM2Y3NDg2YzFmYjA1NWU4NA==",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/0Q9dG9XAMXwvEHAQWpxIPe/tracks",
+        "total" : 11
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:0Q9dG9XAMXwvEHAQWpxIPe"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/1AjT6dIjU5XWHMUEyhlBKi"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/1AjT6dIjU5XWHMUEyhlBKi",
+      "id" : "1AjT6dIjU5XWHMUEyhlBKi",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://mosaic.scdn.co/640/39eb1753c8b92701ab8a7168bc599380b1e2c654847fe1f330951a58ca5c26099a85811d9243b139cc0886b64ac0af9d85f590de3e3ed76c2b3bc8dfe1eefbbe3322161147afa86e6433bfd4b40d463f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://mosaic.scdn.co/300/39eb1753c8b92701ab8a7168bc599380b1e2c654847fe1f330951a58ca5c26099a85811d9243b139cc0886b64ac0af9d85f590de3e3ed76c2b3bc8dfe1eefbbe3322161147afa86e6433bfd4b40d463f",
+        "width" : 300
+      }, {
+        "height" : 60,
+        "url" : "https://mosaic.scdn.co/60/39eb1753c8b92701ab8a7168bc599380b1e2c654847fe1f330951a58ca5c26099a85811d9243b139cc0886b64ac0af9d85f590de3e3ed76c2b3bc8dfe1eefbbe3322161147afa86e6433bfd4b40d463f",
+        "width" : 60
+      } ],
+      "name" : "rap",
+      "owner" : {
+        "display_name" : "Larry Williamson",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/l422y"
+        },
+        "href" : "https://api.spotify.com/v1/users/l422y",
+        "id" : "l422y",
+        "type" : "user",
+        "uri" : "spotify:user:l422y"
+      },
+      "primary_color" : null,
+      "public" : true,
+      "snapshot_id" : "MTEsYjY3NDQxZjViZDEzOTFmODBjM2U2NmQ0ZmM0MzFjMDVjOGY4MzRjYw==",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/1AjT6dIjU5XWHMUEyhlBKi/tracks",
+        "total" : 9
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:1AjT6dIjU5XWHMUEyhlBKi"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/28cD05qpLPLUDHg6TBYUDY"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/28cD05qpLPLUDHg6TBYUDY",
+      "id" : "28cD05qpLPLUDHg6TBYUDY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://mosaic.scdn.co/640/30997443ed4e61860a5526069abffa076017e94339eb1753c8b92701ab8a7168bc599380b1e2c6545081c187e59d7afbd44a3824d8986d334aec8ea3d2fa48dd25569719b5f0e18a895b0de94dbaac6c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://mosaic.scdn.co/300/30997443ed4e61860a5526069abffa076017e94339eb1753c8b92701ab8a7168bc599380b1e2c6545081c187e59d7afbd44a3824d8986d334aec8ea3d2fa48dd25569719b5f0e18a895b0de94dbaac6c",
+        "width" : 300
+      }, {
+        "height" : 60,
+        "url" : "https://mosaic.scdn.co/60/30997443ed4e61860a5526069abffa076017e94339eb1753c8b92701ab8a7168bc599380b1e2c6545081c187e59d7afbd44a3824d8986d334aec8ea3d2fa48dd25569719b5f0e18a895b0de94dbaac6c",
+        "width" : 60
+      } ],
+      "name" : "beats",
+      "owner" : {
+        "display_name" : "Larry Williamson",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/l422y"
+        },
+        "href" : "https://api.spotify.com/v1/users/l422y",
+        "id" : "l422y",
+        "type" : "user",
+        "uri" : "spotify:user:l422y"
+      },
+      "primary_color" : null,
+      "public" : true,
+      "snapshot_id" : "OCw1YTlmN2ZkNDU2MmZhNmJiODk3Njc2ODVlN2MwOTZkNTIxYjAxYjEx",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/28cD05qpLPLUDHg6TBYUDY/tracks",
+        "total" : 6
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:28cD05qpLPLUDHg6TBYUDY"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/3KjYVqviq7zMv9BmXdrkfP"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/3KjYVqviq7zMv9BmXdrkfP",
+      "id" : "3KjYVqviq7zMv9BmXdrkfP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/65fae4d712be050fb70e921d85652e5225c72cc6",
+        "width" : 640
+      } ],
+      "name" : "-- sexy time",
+      "owner" : {
+        "display_name" : "Larry Williamson",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/l422y"
+        },
+        "href" : "https://api.spotify.com/v1/users/l422y",
+        "id" : "l422y",
+        "type" : "user",
+        "uri" : "spotify:user:l422y"
+      },
+      "primary_color" : null,
+      "public" : true,
+      "snapshot_id" : "NSw0NmFkYjRkODgwNGE3MTU1Njc1YzMzOWM3MGVjMzcwODA0YjkzMDIw",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/3KjYVqviq7zMv9BmXdrkfP/tracks",
+        "total" : 3
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:3KjYVqviq7zMv9BmXdrkfP"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/47dOFm3Bc70KpRR8UqCIzG"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/47dOFm3Bc70KpRR8UqCIzG",
+      "id" : "47dOFm3Bc70KpRR8UqCIzG",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://mosaic.scdn.co/640/052ebc344096e21e049fe54097af0e1c1bdd8612a32834a6b8f6ff860d5897578ac696f421bab96bbc3f448af68e5de3acb5707696e5d28ac075981ebd65faa7cd3590dde54c6ffc00d031ef619baea2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://mosaic.scdn.co/300/052ebc344096e21e049fe54097af0e1c1bdd8612a32834a6b8f6ff860d5897578ac696f421bab96bbc3f448af68e5de3acb5707696e5d28ac075981ebd65faa7cd3590dde54c6ffc00d031ef619baea2",
+        "width" : 300
+      }, {
+        "height" : 60,
+        "url" : "https://mosaic.scdn.co/60/052ebc344096e21e049fe54097af0e1c1bdd8612a32834a6b8f6ff860d5897578ac696f421bab96bbc3f448af68e5de3acb5707696e5d28ac075981ebd65faa7cd3590dde54c6ffc00d031ef619baea2",
+        "width" : 60
+      } ],
+      "name" : "noise",
+      "owner" : {
+        "display_name" : "Larry Williamson",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/l422y"
+        },
+        "href" : "https://api.spotify.com/v1/users/l422y",
+        "id" : "l422y",
+        "type" : "user",
+        "uri" : "spotify:user:l422y"
+      },
+      "primary_color" : null,
+      "public" : true,
+      "snapshot_id" : "NSw2NTJjYmExOTQ3NzY0ZWRhODlkNjU1YzNjMjk2MzAxYzhhNjMzYzQ2",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/47dOFm3Bc70KpRR8UqCIzG/tracks",
+        "total" : 4
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:47dOFm3Bc70KpRR8UqCIzG"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/0YX3ZzEAWiiKoFGcmPzRch"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/0YX3ZzEAWiiKoFGcmPzRch",
+      "id" : "0YX3ZzEAWiiKoFGcmPzRch",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://mosaic.scdn.co/640/6d80c25a90b9874ad4ce71b68ad0d4f687f4758f966ba7df0029c5e50037ecc31bfd6171ab68ef7cee17702f50a7514d7902c5c19ea280e2b9bdf14efb86e78a660390da14c052ef03626d692fade410",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://mosaic.scdn.co/300/6d80c25a90b9874ad4ce71b68ad0d4f687f4758f966ba7df0029c5e50037ecc31bfd6171ab68ef7cee17702f50a7514d7902c5c19ea280e2b9bdf14efb86e78a660390da14c052ef03626d692fade410",
+        "width" : 300
+      }, {
+        "height" : 60,
+        "url" : "https://mosaic.scdn.co/60/6d80c25a90b9874ad4ce71b68ad0d4f687f4758f966ba7df0029c5e50037ecc31bfd6171ab68ef7cee17702f50a7514d7902c5c19ea280e2b9bdf14efb86e78a660390da14c052ef03626d692fade410",
+        "width" : 60
+      } ],
+      "name" : "sexy",
+      "owner" : {
+        "display_name" : "Larry Williamson",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/l422y"
+        },
+        "href" : "https://api.spotify.com/v1/users/l422y",
+        "id" : "l422y",
+        "type" : "user",
+        "uri" : "spotify:user:l422y"
+      },
+      "primary_color" : null,
+      "public" : true,
+      "snapshot_id" : "NixlZjFhYWM1MmU3NGNhZDYxNmM5NGFiODk4YTkyOWJjZWY0MjkwYmM0",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/0YX3ZzEAWiiKoFGcmPzRch/tracks",
+        "total" : 4
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:0YX3ZzEAWiiKoFGcmPzRch"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/3jZQ7psMTNZOtsimZIAVUr"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/3jZQ7psMTNZOtsimZIAVUr",
+      "id" : "3jZQ7psMTNZOtsimZIAVUr",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://mosaic.scdn.co/640/246298d525fe271050f9e592184b4c2f43c326c24f3bae29efeeb69c0a131ce0b6617ffea0ff6c5d764ae2a77def12ccc917cf1212d883df171f43be941e6c862e8e32595552fee4ac6a808f21aee993",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://mosaic.scdn.co/300/246298d525fe271050f9e592184b4c2f43c326c24f3bae29efeeb69c0a131ce0b6617ffea0ff6c5d764ae2a77def12ccc917cf1212d883df171f43be941e6c862e8e32595552fee4ac6a808f21aee993",
+        "width" : 300
+      }, {
+        "height" : 60,
+        "url" : "https://mosaic.scdn.co/60/246298d525fe271050f9e592184b4c2f43c326c24f3bae29efeeb69c0a131ce0b6617ffea0ff6c5d764ae2a77def12ccc917cf1212d883df171f43be941e6c862e8e32595552fee4ac6a808f21aee993",
+        "width" : 60
+      } ],
+      "name" : "relax",
+      "owner" : {
+        "display_name" : "Larry Williamson",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/l422y"
+        },
+        "href" : "https://api.spotify.com/v1/users/l422y",
+        "id" : "l422y",
+        "type" : "user",
+        "uri" : "spotify:user:l422y"
+      },
+      "primary_color" : null,
+      "public" : true,
+      "snapshot_id" : "MjYsY2RkNzMwNTgxMDU0MWZiOTk1ZGRiYmQxZmQ2YzAzZDZiODAxNzEwYw==",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/3jZQ7psMTNZOtsimZIAVUr/tracks",
+        "total" : 24
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:3jZQ7psMTNZOtsimZIAVUr"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/19MDBSGRuK7wff8pa7qoZ2"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/19MDBSGRuK7wff8pa7qoZ2",
+      "id" : "19MDBSGRuK7wff8pa7qoZ2",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://mosaic.scdn.co/640/39cd4cc6bcbfdfc78f915e10be8d5c82124e4c4d653276531dacdaa6f0d8b7beb2857c078125c4798733305ee48b3172892324334387237c37cb51e9fc50739f637e43309b513ed408f1b7e9746b4fae",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://mosaic.scdn.co/300/39cd4cc6bcbfdfc78f915e10be8d5c82124e4c4d653276531dacdaa6f0d8b7beb2857c078125c4798733305ee48b3172892324334387237c37cb51e9fc50739f637e43309b513ed408f1b7e9746b4fae",
+        "width" : 300
+      }, {
+        "height" : 60,
+        "url" : "https://mosaic.scdn.co/60/39cd4cc6bcbfdfc78f915e10be8d5c82124e4c4d653276531dacdaa6f0d8b7beb2857c078125c4798733305ee48b3172892324334387237c37cb51e9fc50739f637e43309b513ed408f1b7e9746b4fae",
+        "width" : 60
+      } ],
+      "name" : "breaks",
+      "owner" : {
+        "display_name" : "Larry Williamson",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/l422y"
+        },
+        "href" : "https://api.spotify.com/v1/users/l422y",
+        "id" : "l422y",
+        "type" : "user",
+        "uri" : "spotify:user:l422y"
+      },
+      "primary_color" : null,
+      "public" : true,
+      "snapshot_id" : "Nyw0OWVkODdhYWI3NThmY2RhZDM3ZmI3YTdkODk4MTAyMDM0Y2I1MGE1",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/19MDBSGRuK7wff8pa7qoZ2/tracks",
+        "total" : 5
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:19MDBSGRuK7wff8pa7qoZ2"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/2vqrLw0J4pqx11hgOEuQY9"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/2vqrLw0J4pqx11hgOEuQY9",
+      "id" : "2vqrLw0J4pqx11hgOEuQY9",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/6bcff363b33f6af1745ba4691dc18566f912d899",
+        "width" : 640
+      } ],
+      "name" : "hark",
+      "owner" : {
+        "display_name" : "Larry Williamson",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/l422y"
+        },
+        "href" : "https://api.spotify.com/v1/users/l422y",
+        "id" : "l422y",
+        "type" : "user",
+        "uri" : "spotify:user:l422y"
+      },
+      "primary_color" : null,
+      "public" : true,
+      "snapshot_id" : "NCw0ZGI2ZGZhODUwNmExM2RmMTM5NDdlZGM0N2RhMDBjMjdiM2RmNjY4",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/2vqrLw0J4pqx11hgOEuQY9/tracks",
+        "total" : 2
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:2vqrLw0J4pqx11hgOEuQY9"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/7FPnUgpcuoK8sc8ZMKvYIu"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/7FPnUgpcuoK8sc8ZMKvYIu",
+      "id" : "7FPnUgpcuoK8sc8ZMKvYIu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/65cf872f1e58b77bb3ec5548f9285c8f1da21726",
+        "width" : 640
+      } ],
+      "name" : "bongo bango",
+      "owner" : {
+        "display_name" : "Larry Williamson",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/l422y"
+        },
+        "href" : "https://api.spotify.com/v1/users/l422y",
+        "id" : "l422y",
+        "type" : "user",
+        "uri" : "spotify:user:l422y"
+      },
+      "primary_color" : null,
+      "public" : true,
+      "snapshot_id" : "Myw5ODE3ZWIwN2E5MGFjNDNmNzlhZTcyNmEzMmFkOWJmODIyYzFhNTZj",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/7FPnUgpcuoK8sc8ZMKvYIu/tracks",
+        "total" : 1
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:7FPnUgpcuoK8sc8ZMKvYIu"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/2p9I4nFRvfrxWr6leIVroJ"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/2p9I4nFRvfrxWr6leIVroJ",
+      "id" : "2p9I4nFRvfrxWr6leIVroJ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://mosaic.scdn.co/640/4d3ac2dce1a8ab5bfa728b4e2e424b70d909a22b855c388261b512a5d3a31dd329256f263ae292ec8c27b862b4c6be0ad817a018543e4fbaa9733b0fcd361d37415311962cddd4ee6cfc78e198be0ae6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://mosaic.scdn.co/300/4d3ac2dce1a8ab5bfa728b4e2e424b70d909a22b855c388261b512a5d3a31dd329256f263ae292ec8c27b862b4c6be0ad817a018543e4fbaa9733b0fcd361d37415311962cddd4ee6cfc78e198be0ae6",
+        "width" : 300
+      }, {
+        "height" : 60,
+        "url" : "https://mosaic.scdn.co/60/4d3ac2dce1a8ab5bfa728b4e2e424b70d909a22b855c388261b512a5d3a31dd329256f263ae292ec8c27b862b4c6be0ad817a018543e4fbaa9733b0fcd361d37415311962cddd4ee6cfc78e198be0ae6",
+        "width" : 60
+      } ],
+      "name" : "sweaty palms",
+      "owner" : {
+        "display_name" : "Larry Williamson",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/l422y"
+        },
+        "href" : "https://api.spotify.com/v1/users/l422y",
+        "id" : "l422y",
+        "type" : "user",
+        "uri" : "spotify:user:l422y"
+      },
+      "primary_color" : null,
+      "public" : true,
+      "snapshot_id" : "MTEsNDNkOGY2YWY2ZmU1OTZhZGQ3ZWFkMGNhMzQwODQ1YWFlYzQ3OGNhNQ==",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/2p9I4nFRvfrxWr6leIVroJ/tracks",
+        "total" : 10
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:2p9I4nFRvfrxWr6leIVroJ"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/4cMJHMVeKUStcNnCPdPav0"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/4cMJHMVeKUStcNnCPdPav0",
+      "id" : "4cMJHMVeKUStcNnCPdPav0",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/75501d8876ec34af1af444721900d222667d7a31",
+        "width" : 640
+      } ],
+      "name" : "* full mixes",
+      "owner" : {
+        "display_name" : "Larry Williamson",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/l422y"
+        },
+        "href" : "https://api.spotify.com/v1/users/l422y",
+        "id" : "l422y",
+        "type" : "user",
+        "uri" : "spotify:user:l422y"
+      },
+      "primary_color" : null,
+      "public" : true,
+      "snapshot_id" : "NCwwMDExZTdlOTQxMTgyODEyYjIzMjA0ZjcxMDU5YmI4YWE5ZmVmNTY5",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/4cMJHMVeKUStcNnCPdPav0/tracks",
+        "total" : 2
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:4cMJHMVeKUStcNnCPdPav0"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/4Xv0c5bwANaqj0zrhMgfnF"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/4Xv0c5bwANaqj0zrhMgfnF",
+      "id" : "4Xv0c5bwANaqj0zrhMgfnF",
+      "images" : [ ],
+      "name" : "quiet techno",
+      "owner" : {
+        "display_name" : "Larry Williamson",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/l422y"
+        },
+        "href" : "https://api.spotify.com/v1/users/l422y",
+        "id" : "l422y",
+        "type" : "user",
+        "uri" : "spotify:user:l422y"
+      },
+      "primary_color" : null,
+      "public" : true,
+      "snapshot_id" : "MSxkMzVlNWVmNDVjMDBiZTI5YmU1MDZlMGI3NGEzMWUzMGNhNWFlYzQ4",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/4Xv0c5bwANaqj0zrhMgfnF/tracks",
+        "total" : 0
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:4Xv0c5bwANaqj0zrhMgfnF"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/4zgym5FSiPEuqqa2f45OvT"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/4zgym5FSiPEuqqa2f45OvT",
+      "id" : "4zgym5FSiPEuqqa2f45OvT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://mosaic.scdn.co/640/12fa71531ba5cec40dfbddb550493518402fe7236168316dfa197a1c0f0c068d64e42f1e048e5f7e926e6f8afd3e2229177d5812eefd4c7aa7acf3c0a2a051cb2a9815d847d31f331cc0888c151bfd7a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://mosaic.scdn.co/300/12fa71531ba5cec40dfbddb550493518402fe7236168316dfa197a1c0f0c068d64e42f1e048e5f7e926e6f8afd3e2229177d5812eefd4c7aa7acf3c0a2a051cb2a9815d847d31f331cc0888c151bfd7a",
+        "width" : 300
+      }, {
+        "height" : 60,
+        "url" : "https://mosaic.scdn.co/60/12fa71531ba5cec40dfbddb550493518402fe7236168316dfa197a1c0f0c068d64e42f1e048e5f7e926e6f8afd3e2229177d5812eefd4c7aa7acf3c0a2a051cb2a9815d847d31f331cc0888c151bfd7a",
+        "width" : 60
+      } ],
+      "name" : "gooble gobble techno",
+      "owner" : {
+        "display_name" : "Larry Williamson",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/l422y"
+        },
+        "href" : "https://api.spotify.com/v1/users/l422y",
+        "id" : "l422y",
+        "type" : "user",
+        "uri" : "spotify:user:l422y"
+      },
+      "primary_color" : null,
+      "public" : true,
+      "snapshot_id" : "NyxiMjQ3YTIxMGVjZjBiOGQzYTdhNjE0YTJmZGM2ZjViYzliYzg4MWZk",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/4zgym5FSiPEuqqa2f45OvT/tracks",
+        "total" : 5
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:4zgym5FSiPEuqqa2f45OvT"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/1N0wNryQNmEwZPC6X4GpxB"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/1N0wNryQNmEwZPC6X4GpxB",
+      "id" : "1N0wNryQNmEwZPC6X4GpxB",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/d8114b4a5a93203de43f20a748fb40c9a9db2fc9",
+        "width" : 640
+      } ],
+      "name" : "hiphop beats",
+      "owner" : {
+        "display_name" : "Larry Williamson",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/l422y"
+        },
+        "href" : "https://api.spotify.com/v1/users/l422y",
+        "id" : "l422y",
+        "type" : "user",
+        "uri" : "spotify:user:l422y"
+      },
+      "primary_color" : null,
+      "public" : true,
+      "snapshot_id" : "MyxkNmQzYjZkYjRlNDA0NjIzZDdhYjVjNDU4YzI4OTU1NmJhZmIxZTFm",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/1N0wNryQNmEwZPC6X4GpxB/tracks",
+        "total" : 1
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:1N0wNryQNmEwZPC6X4GpxB"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/46bwjx9uztMnoVBzme8A4O"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/46bwjx9uztMnoVBzme8A4O",
+      "id" : "46bwjx9uztMnoVBzme8A4O",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://mosaic.scdn.co/640/05dda3b7952a66cc20ceb7b3f5ab49ae65a3d99f3abc15c405d49303c7bad2a18b70294a3a1a980b842cc49ee2a8026911ba3fe31ddc6c8de2c324ce86f0a518530b3f2fd759f261fb259b582d07b16e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://mosaic.scdn.co/300/05dda3b7952a66cc20ceb7b3f5ab49ae65a3d99f3abc15c405d49303c7bad2a18b70294a3a1a980b842cc49ee2a8026911ba3fe31ddc6c8de2c324ce86f0a518530b3f2fd759f261fb259b582d07b16e",
+        "width" : 300
+      }, {
+        "height" : 60,
+        "url" : "https://mosaic.scdn.co/60/05dda3b7952a66cc20ceb7b3f5ab49ae65a3d99f3abc15c405d49303c7bad2a18b70294a3a1a980b842cc49ee2a8026911ba3fe31ddc6c8de2c324ce86f0a518530b3f2fd759f261fb259b582d07b16e",
+        "width" : 60
+      } ],
+      "name" : "chord jams",
+      "owner" : {
+        "display_name" : "Larry Williamson",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/l422y"
+        },
+        "href" : "https://api.spotify.com/v1/users/l422y",
+        "id" : "l422y",
+        "type" : "user",
+        "uri" : "spotify:user:l422y"
+      },
+      "primary_color" : null,
+      "public" : true,
+      "snapshot_id" : "OCw4MWM4ZmNlNjUyMTJlZDU3ZWZmODJkZDU0NmNmOTFiYjkyMWQ4Yjg1",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/46bwjx9uztMnoVBzme8A4O/tracks",
+        "total" : 6
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:46bwjx9uztMnoVBzme8A4O"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/5dxVOqTxN0oHOso9wEosfW"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/5dxVOqTxN0oHOso9wEosfW",
+      "id" : "5dxVOqTxN0oHOso9wEosfW",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://mosaic.scdn.co/640/0280bd67979f64566504bfc72c016e59f4c8e2434d3ac2dce1a8ab5bfa728b4e2e424b70d909a22b6168316dfa197a1c0f0c068d64e42f1e048e5f7e9b5d7830dceeeaae9c40c6f9ba393a7807b5c5d9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://mosaic.scdn.co/300/0280bd67979f64566504bfc72c016e59f4c8e2434d3ac2dce1a8ab5bfa728b4e2e424b70d909a22b6168316dfa197a1c0f0c068d64e42f1e048e5f7e9b5d7830dceeeaae9c40c6f9ba393a7807b5c5d9",
+        "width" : 300
+      }, {
+        "height" : 60,
+        "url" : "https://mosaic.scdn.co/60/0280bd67979f64566504bfc72c016e59f4c8e2434d3ac2dce1a8ab5bfa728b4e2e424b70d909a22b6168316dfa197a1c0f0c068d64e42f1e048e5f7e9b5d7830dceeeaae9c40c6f9ba393a7807b5c5d9",
+        "width" : 60
+      } ],
+      "name" : "function week",
+      "owner" : {
+        "display_name" : "Larry Williamson",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/l422y"
+        },
+        "href" : "https://api.spotify.com/v1/users/l422y",
+        "id" : "l422y",
+        "type" : "user",
+        "uri" : "spotify:user:l422y"
+      },
+      "primary_color" : null,
+      "public" : true,
+      "snapshot_id" : "MTMsOTg2ZWE3NmJkMjc1YTM5YjdhMDdjYWVlMTgwY2NiMWJjNmY5MjZkMw==",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/5dxVOqTxN0oHOso9wEosfW/tracks",
+        "total" : 11
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:5dxVOqTxN0oHOso9wEosfW"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/3xLOb29Od0V5zigJn5nzlv"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/3xLOb29Od0V5zigJn5nzlv",
+      "id" : "3xLOb29Od0V5zigJn5nzlv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/528cbd1ffd97b6bcc63224b860bd3566419ff01f",
+        "width" : 640
+      } ],
+      "name" : "Annie Nightingale Presents Y4k - Continuous Mix",
+      "owner" : {
+        "display_name" : "Larry Williamson",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/l422y"
+        },
+        "href" : "https://api.spotify.com/v1/users/l422y",
+        "id" : "l422y",
+        "type" : "user",
+        "uri" : "spotify:user:l422y"
+      },
+      "primary_color" : null,
+      "public" : true,
+      "snapshot_id" : "Myw3YzRkOTg5M2I1YzFmNmJjYjZlMjc0YWYzNGU4YTdhNGQ0OGI2YmMy",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/3xLOb29Od0V5zigJn5nzlv/tracks",
+        "total" : 2
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:3xLOb29Od0V5zigJn5nzlv"
+    }, {
+      "collaborative" : false,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/0wz8K0jyTznfNGgJyLAJDv"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/0wz8K0jyTznfNGgJyLAJDv",
+      "id" : "0wz8K0jyTznfNGgJyLAJDv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://mosaic.scdn.co/640/5d05f6bec943537f6cd1193dd5917f8317b8d8fa91e07899b4d73c1868fe9105b6c579ac645464f8d78afcdcd80e39d229bf3360b86111dd9b8c441cd9c338633773427c0cefdcda1316bd350a9f0dab",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://mosaic.scdn.co/300/5d05f6bec943537f6cd1193dd5917f8317b8d8fa91e07899b4d73c1868fe9105b6c579ac645464f8d78afcdcd80e39d229bf3360b86111dd9b8c441cd9c338633773427c0cefdcda1316bd350a9f0dab",
+        "width" : 300
+      }, {
+        "height" : 60,
+        "url" : "https://mosaic.scdn.co/60/5d05f6bec943537f6cd1193dd5917f8317b8d8fa91e07899b4d73c1868fe9105b6c579ac645464f8d78afcdcd80e39d229bf3360b86111dd9b8c441cd9c338633773427c0cefdcda1316bd350a9f0dab",
+        "width" : 60
+      } ],
+      "name" : "Liked from Radio",
+      "owner" : {
+        "display_name" : "Larry Williamson",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/l422y"
+        },
+        "href" : "https://api.spotify.com/v1/users/l422y",
+        "id" : "l422y",
+        "type" : "user",
+        "uri" : "spotify:user:l422y"
+      },
+      "primary_color" : null,
+      "public" : true,
+      "snapshot_id" : "NjEsODUzMmRjYzk5MzAyZTdhMTU3NmNhNjc0ZDI5OTdmYmFkNmRhYTk1Mg==",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/0wz8K0jyTznfNGgJyLAJDv/tracks",
+        "total" : 59
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:0wz8K0jyTznfNGgJyLAJDv"
+    } ]
+}
