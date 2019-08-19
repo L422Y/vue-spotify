@@ -4,13 +4,13 @@ html {
     margin: 0;
 
     #app {
+      font-family: Helvetica, Arial, sans-serif;
+
       div {
         ul, li {
-          list-style-type: none;
           margin: 0;
           padding: 0;
         }
-
         ul {
           display: flex;
           flex-wrap: wrap;
@@ -43,6 +43,8 @@ html {
                 object-fit: cover;
                 width: 100%;
                 height: 100%;
+                //transition: all 1.2s;
+                //transform-origin: center center;
 
               }
 
@@ -86,19 +88,19 @@ html {
                 }
               }
 
-              //&:before {
-              //  pointer-events: none;
-              //  display: block;
-              //  content: " ";
-              //  top: 0;
-              //  left: 0;
-              //  right: 0;
-              //  bottom: 0;
-              //  position: absolute;
-              //  background: #000000;
-              //  mix-blend-mode: saturation;
-              //  transition: opacity .2s;
-              //}
+              &:before {
+                pointer-events: none;
+                display: block;
+                content: " ";
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                position: absolute;
+                background: #555555;
+                mix-blend-mode: multiply;
+                transition: opacity .3s;
+              }
 
               &:after {
                 pointer-events: none;
@@ -114,15 +116,104 @@ html {
                 position: absolute;
               }
 
-              &:hover {
+
+            }
+
+            cursor: pointer;
+
+            &:hover {
+              position: relative;
+              z-index: 33;
+
+              figure {
+
                 &:before {
                   opacity: 0;
                 }
+
+                img {
+                  //transform: scale(1.2);
+                }
               }
+            }
+
+          }
+        }
+      }
+
+      aside {
+        overflow: scroll;
+        display: block;
+        position: fixed;
+        left: 100%;
+        background: #fff;
+        width: 100vw;
+        opacity: .9;
+        top: 0;
+        bottom: 0;
+        transition: left .3s;
+        padding-bottom: 5rem;
+        z-index: 44;
+
+        .closer {
+          position: absolute;
+          top: 0rem;
+          right: 0rem;
+          padding: 1rem;
+          font-size: 4rem;
+          cursor: pointer;
+          line-height: 2rem;
+        }
+
+        > h1 {
+          text-transform: uppercase;
+          padding: 0 2rem;
+          font-size: 4rem;
+        }
+
+        a {
+          color: #111111;
+        }
+
+        ol, li {
+          //list-style-type: none;
+          //margin: 0;
+          //padding: 0;
+        }
+
+        ol {
+          li {
+            span.trackTitle {
+              display: block;
+            }
+
+            + li {
+              margin-top: 1rem;
+            }
+          }
+        }
+
+        span.trackTitle {
+          font-size: 1.4rem;
+        }
+
+        span.artist {
+          + span.artist {
+            &:before {
+              content: ", ";
             }
           }
         }
       }
+
+      .showPlaylist aside {
+        left: 0;
+
+        .closer {
+          position: fixed;
+        }
+      }
+
     }
   }
 }
